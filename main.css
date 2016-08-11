@@ -11,3 +11,6 @@ text-decoration: line-through;
 .add-todo {
   margin-top: 70px;
 }
+.hide{
+  display:none;
+}
